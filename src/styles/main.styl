@@ -96,65 +96,6 @@ article
 .bespoke-active
   opacity: 1
 
-// bespoke-bullet styles
-
-.bespoke-bullet
-  transition: all bullet_transition_length bullet_transition_easing
-
-.bespoke-bullet-inactive
-  opacity: 0
-  li&
-    transform: translateX(bullet_transition_translate_x)
-  @media print
-    opacity: 1
-
-.bespoke-bullet-active
-  opacity: 1
-
-// bespoke-scale styles
-
-.bespoke-scale-parent
-  perspective: 600px
-  position: absolute
-  top: 0
-  left: 0
-  right: 0
-  bottom: 0
-  @media print
-    transform: none !important
-
-// bespoke-progress styles
-
-.bespoke-progress-parent
-  position: absolute
-  top: 0
-  left: 0
-  right: 0
-  height: 2px
-  @media only screen and (min-width: 1366px)
-    height: 4px
-  @media print
-    display: none
-
-.bespoke-progress-bar
-  transition: width .6s ease
-  position: absolute
-  height: 100%
-  background: #0089f3
-  border-radius: 0 4px 4px 0
-
-// bespoke-state styles
-
-.emphatic,
-.emphatic .bespoke-slide
-  background: slide_background
-
-// prism styles
-
-pre
-  padding: 26px !important
-  border-radius: 8px
-
 // content styles
 
 body
