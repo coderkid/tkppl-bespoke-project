@@ -238,7 +238,7 @@ body {
   font-family: helvetica, arial, sans-serif;
   font-size: 18px;
   color: #404040;
-  background: #6e6f73 url("public/img/noise.png");
+  background: #6e6f73 url("../img/noise.png");
 }
 h1 {
   font-size: 72px;
