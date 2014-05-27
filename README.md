@@ -1,12 +1,12 @@
 # Presentasi Objek Wisata Sumatera Utara
-> A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
+> A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke), you can see our slide demo here [Demo](http://coderkid.github.io/tkppl-bespoke-project)
 
 ## Team Detail
 
-*Nama kelompok: Random
-*Alamat Github: [Github Link](https://github.com/coderkid/tkppl-bespoke-project)
-*Alamat Trello: [Trello Link](https://trello.com/b/aPiUVO1k/tkppl-bespoke-project)
-*Judul Topik: Objek Wisata Sumatera Utara
+* Nama kelompok: Random
+* Alamat Github: [Github Link](https://github.com/coderkid/tkppl-bespoke-project)
+* Alamat Trello: [Trello Link](https://trello.com/b/aPiUVO1k/tkppl-bespoke-project)
+* Judul Topik: Objek Wisata Sumatera Utara
 
 ___
 
