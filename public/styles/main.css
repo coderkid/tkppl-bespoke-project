@@ -149,7 +149,6 @@ body {
   font-family: helvetica, arial, sans-serif;
   font-size: 18px;
   color: #404040;
-  background: #6e6f73 url("../img/noise.png");
 }
 h1 {
   font-size: 72px;
@@ -185,12 +184,4 @@ p {
 a {
   color: #0089f3;
   text-decoration: none;
-}
-.special {
-  font-family: 'Seaweed Script', cursive;
-  font-size: 72px;
-  line-height: 82px;
-  letter-spacing: -2px;
-  margin-bottom: 16px;
-  font-weight: 100;
 }
