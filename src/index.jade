@@ -17,11 +17,18 @@ html
 
     article
 
-      include slide1.jade
+      include cover.jade
+
+      include sumatra.jade
 
       include brastagi.jade
+<<<<<<< HEAD
       
       include bukitlawang.jade
+=======
+
+      include danautoba
+>>>>>>> 50a1e20ef08ae4bb5ed5b44403b6988d86219baf
         
       section
         h2 Keyboard Interaction
@@ -78,14 +85,8 @@ html
           li
             strong Enjoy! :)
             a(href='http://twitter.com/markdalgleish')  -@markdalgleish
-      section
-        h2 Akhirnya Siap Juga
-        img.img-responsive(src='img/lastSlide.png')
-      
-      section
-        h4.special thanks
-        p Our Github Page : http://coderkid.github.io/tkppl-bespoke-project
-        p Our Trello : https://trello.com/b/aPiUVO1k/tkppl-bespoke-project
+            
+      include last-slide
 
     // build:js scripts/scripts.js
     script(src='bower_components/bespoke.js/dist/bespoke.min.js')
