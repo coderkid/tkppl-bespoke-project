@@ -37,7 +37,10 @@ Progress Harian (Diupdate tiap hari)
 
 26/5 
 Daily Scrum
-(M.Hadi Ardiansyah):
+Semua Anggota Latihan Fork, Clone, Pull Request
+
+27/5
+(Rahmatsyah Panggabean):
 1. Semalam saya.. (abaikan jika hari pertama)
 2. Hari ini saya.. 
 3. Saya ada kendala di..
@@ -52,4 +55,34 @@ Daily Scrum
 2.
 3.
 
-...
+28/5
+(Rahmatsyah Panggabean):
+1. Semalam saya.. (abaikan jika hari pertama)
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+(M.Hadi Ardiansyah):
+1.
+2.
+3.
+
+(Franseda Abudiman Dalimunthe):
+1.
+2.
+3.
+
+29/5
+(Rahmatsyah Panggabean):
+1. Semalam saya.. (abaikan jika hari pertama)
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+(M.Hadi Ardiansyah):
+1.
+2.
+3.
+
+(Franseda Abudiman Dalimunthe):
+1.
+2.
+3.
