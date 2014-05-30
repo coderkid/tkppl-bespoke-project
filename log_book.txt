@@ -1,0 +1,88 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: Random
+Judul Topik: Objek Wisata Sumatera Utara
+Alamat Github: https://github.com/coderkid/tkppl-bespoke-project
+Alamat Trello: https://trello.com/b/aPiUVO1k/tkppl-bespoke-project
+Anggota 1:
+	Nama: Wahyu Raja Butar-Butar
+	NIM: 10 111 0354
+Anggota 2:
+	Nama: Rahmatsyah Panggabean
+	NIM: 10 111 1520
+Anggota 3:
+	Nama: M.Hadi Ardiansyah
+	NIM: 10 111 2070
+Anggota 4:
+	Nama: Franseda Abudiman Dalimunthe
+	NIM: 10 111 2495
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 29/5
+Scrummaster: Wahyu Raja Butar-Butar (10 111 0354)
+
+Sprint 2:
+
+
+Sprint 3: 
+
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+26/5 
+Daily Scrum
+Semua Anggota Latihan Fork, Clone, Pull Request
+
+27/5
+(Rahmatsyah Panggabean):
+1. Semalam saya.. (abaikan jika hari pertama)
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+(M.Hadi Ardiansyah):
+1.
+2.
+3.
+
+(Franseda Abudiman Dalimunthe):
+1.
+2.
+3.
+
+28/5
+(Rahmatsyah Panggabean):
+1. Semalam saya.. (abaikan jika hari pertama)
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+(M.Hadi Ardiansyah):
+1.
+2.
+3.
+
+(Franseda Abudiman Dalimunthe):
+1.
+2.
+3.
+
+29/5
+(Rahmatsyah Panggabean):
+1. Semalam saya.. (abaikan jika hari pertama)
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+(M.Hadi Ardiansyah):
+1.
+2.
+3.
+
+(Franseda Abudiman Dalimunthe):
+1.
+2.
+3.
