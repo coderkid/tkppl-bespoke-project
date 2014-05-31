@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+=======
+node_modules
+src/bower_components
+public
+.tmp
+>>>>>>> eb7b82a3e80d549dc7cedfea986f9df5faba2b55
