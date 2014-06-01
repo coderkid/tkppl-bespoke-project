@@ -27,7 +27,8 @@ Sprint 1:
 Scrummaster: Wahyu Raja Butar-Butar (10 111 0354)
 
 Sprint 2:
-
+30/5 - 2/6
+Scrummaster: M.Hadi Ardiansyah (10 111 2070)
 
 Sprint 3: 
 
@@ -46,9 +47,9 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 3. Saya ada kendala di..
 
 (M.Hadi Ardiansyah):
-1.
-2.
-3.
+1. Semalam saya latihan fork, clone dan pull request
+2. Hari ini saya mencari informasi objek wisata Berastagi dan membuat slidenya
+3. Saya ada kendala saat melakukan push github
 
 (Franseda Abudiman Dalimunthe):
 1.
@@ -62,9 +63,9 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 3. Saya ada kendala di..
 
 (M.Hadi Ardiansyah):
-1.
-2.
-3.
+1. Semalam saya membuat slide objek wisata Berastagi
+2. Hari ini saya mendesain slide Berastagi, membuat slide desa Lingga, dan menambah gambar-gambar objek wisata Berastagi dan sekitarnya
+3. Tidak ada kendala
 
 (Franseda Abudiman Dalimunthe):
 1.
@@ -78,9 +79,95 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 3. Saya ada kendala di..
 
 (M.Hadi Ardiansyah):
+1. Semalam saya mengedit, menambah slide dan juga menambah beberapa gambar 
+2. Hari ini saya membuat slide objek wisata Gundaling
+3. Tidak ada kendala
+
+(Franseda Abudiman Dalimunthe):
 1.
 2.
 3.
+
+30/5
+(Wahyu Raja Butar-Butar):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+(Rahmatsyah Panggabean):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+(M.Hadi Ardiansyah):
+1. Semalam saya membuat slide objek wisata Gundaling
+2. Hari ini saya membuat slide pasar buah Berastagi
+3. Tidak ada kendala
+
+(Franseda Abudiman Dalimunthe):
+1.
+2.
+3.
+
+31/5
+(Wahyu Raja Butar-Butar):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+(Rahmatsyah Panggabean):
+1. Semalam saya.. (abaikan jika hari pertama)
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+(M.Hadi Ardiansyah):
+1. Semalam saya membuat slide pasar buah Berastagi
+2. Hari ini saya membuat slide Pemandian Sidebu-debu
+3. Tidak ada kendala
+
+(Franseda Abudiman Dalimunthe):
+1.
+2.
+3.
+
+
+1/6
+(Wahyu Raja Butar-Butar):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+(Rahmatsyah Panggabean):
+1. Semalam saya.. (abaikan jika hari pertama)
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+(M.Hadi Ardiansyah):
+1. Semalam saya membuat slide pemandian Sidebu-debu
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+(Franseda Abudiman Dalimunthe):
+1.
+2.
+3.
+
+
+2/6
+(Wahyu Raja Butar-Butar):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+(Rahmatsyah Panggabean):
+1. Semalam saya.. (abaikan jika hari pertama)
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+(M.Hadi Ardiansyah):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di..
 
 (Franseda Abudiman Dalimunthe):
 1.
