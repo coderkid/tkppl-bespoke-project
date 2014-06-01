@@ -145,6 +145,7 @@ article.bespoke-parent {
   -ms-filter: none;
   filter: none;
 }
+<<<<<<< HEAD
 .bespoke-bullet {
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -234,11 +235,16 @@ pre {
   -webkit-border-radius: 8px;
   border-radius: 8px;
 }
+=======
+>>>>>>> eb7b82a3e80d549dc7cedfea986f9df5faba2b55
 body {
   font-family: helvetica, arial, sans-serif;
   font-size: 18px;
   color: #404040;
+<<<<<<< HEAD
   background: #6e6f73 url("../img/noise.png");
+=======
+>>>>>>> eb7b82a3e80d549dc7cedfea986f9df5faba2b55
 }
 h1 {
   font-size: 72px;
@@ -268,13 +274,18 @@ li {
   margin-bottom: 12px;
 }
 p {
+<<<<<<< HEAD
   margin: 0 50px 0px;
+=======
+  margin: 0 100px 12px;
+>>>>>>> eb7b82a3e80d549dc7cedfea986f9df5faba2b55
   line-height: 22px;
 }
 a {
   color: #0089f3;
   text-decoration: none;
 }
+<<<<<<< HEAD
 .special {
   font-family: 'Seaweed Script', cursive;
   font-size: 72px;
@@ -283,3 +294,5 @@ a {
   margin-bottom: 16px;
   font-weight: 100;
 }
+=======
+>>>>>>> eb7b82a3e80d549dc7cedfea986f9df5faba2b55
