@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 bespoke.from('article', {
   keys: true,
   touch: true,
@@ -18,9 +17,4 @@ document.addEventListener('keydown', function(e) {
 		var jlhSection = document.querySelectorAll("section").length;
 		location.href= "#"+jlhSection;
 	}
-=======
-bespoke.from('article', {
-  keys: true,
-  touch: true
->>>>>>> eb7b82a3e80d549dc7cedfea986f9df5faba2b55
 });
