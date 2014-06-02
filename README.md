@@ -1,5 +1,30 @@
-# Hello World
-> A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
+# Presentasi Objek Wisata Sumatera Utara
+> A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke), you can see our slide demo here [Demo](http://coderkid.github.io/tkppl-bespoke-project)
+
+## Team Detail
+
+* Nama kelompok: Random
+* Alamat Github: [Github Link](https://github.com/coderkid/tkppl-bespoke-project)
+* Alamat Trello: [Trello Link](https://trello.com/b/aPiUVO1k/tkppl-bespoke-project)
+* Judul Topik: Objek Wisata Sumatera Utara
+
+___
+
+Anggota 1
+Nama: Wahyu Raja Butar-Butar
+NIM: 10 111 0354
+
+Anggota 2
+Nama: M.Hadi Ardiansyah
+NIM: 10 111 2070
+
+Anggota 3
+Nama: Rahmatsyah Panggabean
+NIM: 10 111 1520
+
+Anggota 4
+Nama: Franseda Abudiman Dalimunthe
+NIM: 10 111 2495
 
 ## View slides locally
 
