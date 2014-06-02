@@ -5,3 +5,8 @@
 5. mencari informasi simalem
 6. mencari informasi tentang bukit lawang
 7. mencari informasi tentang danau toba
+8. mencari informasi pasar buah berastagi 
+9. mencari informasi pemandian sidebu-debu
+10. mencari informasi taman alam lumbini
+11. mencari informasi gunung sibayak
+12. mencari informasi pelaruga desa rumah galo
