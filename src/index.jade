@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 doctype html
 html
   head
@@ -62,4 +63,50 @@ html
     script(src='scripts/jquery.js')
     script(src='bootstrap/bootstrap.min.js')
     script(src='scripts/main.js')
+=======
+doctype html
+html
+  head
+    meta(charset='utf-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
+    title Hello World
+
+    // build:css styles/styles.css
+    link(rel='stylesheet', type='text/css', href='styles/main.css')
+    // endbuild
+
+  body
+
+    article
+
+      section
+        h1 Hello World
+
+      section
+        h2 Keyboard Interaction
+        h3 Powered by <a href="https://github.com/markdalgleish/bespoke-keys">bespoke-keys</a>
+
+      section
+        h2 Touch Interaction
+        h3 Powered by <a href="https://github.com/markdalgleish/bespoke-touch">bespoke-touch</a>
+
+      section
+        h2.bullet Just the beginning...
+        hr
+        ul
+          li Edit <a href="http://jade-lang.com/">Jade</a> markup in <em>'src/index.jade'</em>
+          li Edit <a href="http://learnboost.github.io/stylus/">Stylus</a> styles in <em>'src/styles/main.styl'</em>
+          li Edit JavaScript in <em>'src/scripts/main.js'</em>
+        hr
+        ul
+          li
+            strong Enjoy! :)
+            a(href='http://twitter.com/markdalgleish')  -@markdalgleish
+
+    // build:js scripts/scripts.js
+    script(src='bower_components/bespoke.js/dist/bespoke.min.js')
+    script(src='bower_components/bespoke-keys/dist/bespoke-keys.min.js')
+    script(src='bower_components/bespoke-touch/dist/bespoke-touch.min.js')
+    script(src='scripts/main.js')
+>>>>>>> eb7b82a3e80d549dc7cedfea986f9df5faba2b55
     // endbuild
