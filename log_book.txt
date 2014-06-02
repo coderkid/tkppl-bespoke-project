@@ -42,9 +42,9 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 
 27/5
 (Rahmatsyah Panggabean):
-1. Semalam saya.. (abaikan jika hari pertama)
-2. Hari ini saya.. 
-3. Saya ada kendala di..
+1. Semalam saya latihan fork, clone, dan pull request
+2. Hari ini saya mencari informasi tentang objek wisata Bukit Lawang
+3. Saya ada kendala saat melakukan commit, dan push github
 
 (M.Hadi Ardiansyah):
 1. Semalam saya latihan fork, clone dan pull request
@@ -58,9 +58,9 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 
 28/5
 (Rahmatsyah Panggabean):
-1. Semalam saya.. (abaikan jika hari pertama)
-2. Hari ini saya.. 
-3. Saya ada kendala di..
+1. Semalam saya mengalami kendala dan saya meringkas artikel tentang objek wisata Bukit Lawang
+2. Hari ini saya membuat slide Bukit Lawang 
+3. Ketika di pull slide saya mengalami error
 
 (M.Hadi Ardiansyah):
 1. Semalam saya membuat slide objek wisata Berastagi
@@ -74,9 +74,9 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 
 29/5
 (Rahmatsyah Panggabean):
-1. Semalam saya.. (abaikan jika hari pertama)
-2. Hari ini saya.. 
-3. Saya ada kendala di..
+1. Semalam saya membuat slide Bukit Lawang
+2. Hari ini saya menambahkan gambar di slide Bukit Lawang
+3. Tidak ada kendala
 
 (M.Hadi Ardiansyah):
 1. Semalam saya mengedit, menambah slide dan juga menambah beberapa gambar 
@@ -95,9 +95,9 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 3. Saya tidak ada kendala
 
 (Rahmatsyah Panggabean):
-1. Semalam saya.. 
-2. Hari ini saya.. 
-3. Saya ada kendala di..
+1. Semalam saya menambahkan gambar pada slide Bukit Lawang
+2. Hari ini saya mengedit dan menghapus beberapa gambar dan kata-kata yang tidak perlu 
+3. Tidak ada kendala
 
 (M.Hadi Ardiansyah):
 1. Semalam saya membuat slide objek wisata Gundaling
@@ -116,9 +116,9 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 3. Saya tidak ada kendala
 
 (Rahmatsyah Panggabean):
-1. Semalam saya.. (abaikan jika hari pertama)
-2. Hari ini saya.. 
-3. Saya ada kendala di..
+1. Semalam saya menghapus dan mengedit gambar dan kata yang tidak perlu pada slide Bukit Lawang
+2. Hari ini saya membuat slide tentang objek wisata Pelaruga
+3. Tidak ada kendala
 
 (M.Hadi Ardiansyah):
 1. Semalam saya membuat slide pasar buah Berastagi
@@ -138,9 +138,9 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 3. Saya tidak ada kendala
 
 (Rahmatsyah Panggabean):
-1. Semalam saya.. (abaikan jika hari pertama)
-2. Hari ini saya.. 
-3. Saya ada kendala di..
+1. Semalam saya membuat slide Pelaruga
+2. Hari ini saya menambahkan gambar pada Slide Pelaruga
+3. Kendala saya yaitu saya gagal push pada hari ini karena terjadi ERROR
 
 (M.Hadi Ardiansyah):
 1. Semalam saya membuat slide pemandian Sidebu-debu
