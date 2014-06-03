@@ -148,9 +148,9 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 3. Tidak ada kendala
 
 (Franseda Abudiman Dalimunthe):
-1.
-2.
-3.
+1. Semalam saya menambah slide Gunung Sibayak
+2. Hari ini saya menambah slide Gunung Sibayak
+3. Ada kendala saat melakukan grunt server setelah melakukan push
 
 
 2/6
@@ -170,6 +170,6 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 3. Tidak ada kendala
 
 (Franseda Abudiman Dalimunthe):
-1.
-2.
-3.
+1. Semalam saya menambah slide Gunung Sibayak
+2. Hari ini saya melakukan add log book
+3. Tidak ada kendala
