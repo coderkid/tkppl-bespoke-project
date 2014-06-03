@@ -52,9 +52,9 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 3. Saya ada kendala saat melakukan push github
 
 (Franseda Abudiman Dalimunthe):
-1.
-2.
-3.
+1. Semalam saya latihan fork, clone dan pull request 
+2. Hari ini saya melakukan test clone 
+3. tidak ada kendala
 
 28/5
 (Rahmatsyah Panggabean):
@@ -68,9 +68,9 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 3. Tidak ada kendala
 
 (Franseda Abudiman Dalimunthe):
-1.
-2.
-3.
+1. Semalam saya melakukan test clone
+2. Hari ini saya tambah slide Danau Toba
+3. kendala saya saat melakukan push. masih banyak yang error
 
 29/5
 (Rahmatsyah Panggabean):
@@ -84,9 +84,9 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 3. Tidak ada kendala
 
 (Franseda Abudiman Dalimunthe):
-1.
-2.
-3.
+1. 
+2. 
+3. 
 
 30/5
 (Wahyu Raja Butar-Butar):
@@ -105,9 +105,9 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 3. Tidak ada kendala
 
 (Franseda Abudiman Dalimunthe):
-1.
-2.
-3.
+1. Semalam saya tidak mengerjakan karna saya lupa isi paket internet
+2. Hari ini saya menambah sejarah Danau Toba pada slide Danau Toba
+3. kendala saya pada saat setelah push, lalu grunt server, muncul banyak error
 
 31/5
 (Wahyu Raja Butar-Butar):
@@ -126,9 +126,9 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 3. Tidak ada kendala
 
 (Franseda Abudiman Dalimunthe):
-1.
-2.
-3.
+1. Semalam saya menambah sejarah Danau Toba
+2. Hari ini saya menambah slide Gunung Sibayak
+3. kendala saya sering error ketika melakukan push
 
 
 1/6
@@ -144,8 +144,8 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 
 (M.Hadi Ardiansyah):
 1. Semalam saya membuat slide pemandian Sidebu-debu
-2. Hari ini saya.. 
-3. Saya ada kendala di..
+2. Hari ini saya membuat slide Taman Alam Lumbini
+3. Tidak ada kendala
 
 (Franseda Abudiman Dalimunthe):
 1.
@@ -165,9 +165,9 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 3. Saya ada kendala di..
 
 (M.Hadi Ardiansyah):
-1. Semalam saya.. 
-2. Hari ini saya.. 
-3. Saya ada kendala di..
+1. Semalam saya membuat slide Taman Alam Lumbini
+2. Hari ini saya menambah gambar pada slide pasar buah berastagi, sidebu-debu dan taman alam lumbini
+3. Tidak ada kendala
 
 (Franseda Abudiman Dalimunthe):
 1.

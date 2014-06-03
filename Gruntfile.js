@@ -1,4 +1,4 @@
-// Generated on 2014-03-26 using generator-bespoke v0.8.0
+// Generated on 2014-05-30 using generator-bespoke v0.8.0
 
 module.exports = function(grunt) {
 
