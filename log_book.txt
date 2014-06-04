@@ -31,7 +31,7 @@ Sprint 2:
 Scrummaster: M.Hadi Ardiansyah (10 111 2070)
 
 Sprint 3: 
-
+Scrummaster: Rahmatsyah Panggabean (10 111 1520)
 
 Progress Harian (Diupdate tiap hari)
 ------------------------------------
@@ -160,9 +160,9 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 3. Saya tidak ada kendala
 
 (Rahmatsyah Panggabean):
-1. Semalam saya.. (abaikan jika hari pertama)
-2. Hari ini saya.. 
-3. Saya ada kendala di..
+1. Semalam saya mengedit gambar dari slide Pelaruga
+2. Mengedit gambar yang lebih bagus dari slide Pelaruga
+3. Saya tidak ada kendala
 
 (M.Hadi Ardiansyah):
 1. Semalam saya membuat slide Taman Alam Lumbini
@@ -178,4 +178,9 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 (Wahyu Raja Butar-Butar):
 1. Semalam saya mencari dan membuat slide simalem
 2. Mencari dan membuat slide merdeka walk
+3. Saya tidak ada kendala
+
+(Rahmatsyah Panggabean):
+1. Semalam saya mengedit gambar dari slide Pelaruga
+2. Menambah slide Ucok Durian
 3. Saya tidak ada kendala
