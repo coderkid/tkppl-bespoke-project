@@ -246,7 +246,7 @@ body {
   margin-bottom: 30px;
   -webkit-border-radius: 6px;
   border-radius: 6px;
-  background: #eaeaea url("images/teaser-bg.png") repeat-x bottom left;
+  background: #eaeaea;
 }
 h1 {
   font-size: 72px;
@@ -282,6 +282,9 @@ p {
 a {
   color: #0089f3;
   text-decoration: none;
+}
+ol {
+  margin-left: 40px;
 }
 .special {
   font-family: 'Seaweed Script', cursive;
