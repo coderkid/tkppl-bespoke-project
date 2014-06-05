@@ -180,29 +180,26 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 2. Mencari dan membuat slide merdeka walk
 3. Saya tidak ada kendala
 
-<<<<<<< HEAD
-=======
 (Rahmatsyah Panggabean):
 1. Semalam saya mengedit gambar dari slide Pelaruga
 2. Menambah slide Ucok Durian
 3. Saya tidak ada kendala
 
->>>>>>> bcdef46b322361d6b90bbb1e3b947659499e4eb4
 (M.Hadi Ardiansyah):
 1. Semalam saya menambah gambar pada slide pasar buah berastagi, sidebu-debu dan taman alam lumbini
 2. Hari ini saya mencari dan membuat slide rumah makan sinar pagi
 3. Tidak ada kendala
 
 4/6
-<<<<<<< HEAD
-(M.Hadi Ardiansyah):
-1. Semalam saya mencari dan membuat slide rumah makan sinar pagi
-2. Hari ini saya mencari dan membuat slide kuliner pagaruyung
-3. Tidak ada kendala
-=======
+
 (Wahyu Raja Butar-Butar):
 1. Semalam mencari dan membuat slide merdeka walk
 2. Resolve conflict dan merge hasil dari rahmatsyah, hadi, dan franseda
+3. Saya tidak ada kendala
+
+(Rahmatsyah Panggabean):
+1. Semalam saya membuat Slide Ucok Durian
+2. Menambah gambar pada slide Ucok Durian
 3. Saya tidak ada kendala
 
 (M.Hadi Ardiansyah):
@@ -215,4 +212,8 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 1. Semalam resolve conflict dan merge hasil dari rahmatsyah, hadi, dan franseda
 2. Memperbaiki slide merdeka walk
 3. Saya tidak ada kendala
->>>>>>> bcdef46b322361d6b90bbb1e3b947659499e4eb4
+
+(Rahmatsyah Panggabean):
+1. Semalam saya mengedit gambar dari Slide Ucok Durian
+2. Menambah slide Alfresco
+3. Kendala saya, saya telat push pada tengah malam. Karena keterlambatan proses dari laptop saya
