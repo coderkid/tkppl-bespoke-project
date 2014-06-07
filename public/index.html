@@ -238,7 +238,10 @@
         <div class="row">
           <h2>Pemandian Sidebu-debu</h2>
         </div>
-        <div class="row"><img src="img/sidebuk2.jpg" class="col-md-6"><img src="img/sidebu3.jpg" class="col-md-6"></div>
+        <div class="row">
+          <div class="col-md-6"><img src="img/sidebuk2.jpg" class="img-responsive"></div>
+          <div class="col-md-6 hidden-xs"><img src="img/sidebu3.jpg" class="img-responsive"></div>
+        </div>
       </section>
       <section>
         <div class="row">
@@ -252,7 +255,10 @@
         <div class="row">
           <h2>Taman Alam Lumbini</h2>
         </div>
-        <div class="row"><img src="img/Taman_lumbini.jpg" class="col-md-6"><img src="img/lumbini2.jpg" class="col-md-6"></div>
+        <div class="row">
+          <div class="col-md-6"><img src="img/Taman_lumbini.jpg" class="img-responsive"></div>
+          <div class="col-md-6 hidden-xs"><img src="img/lumbini2.jpg" class="img-responsive"></div>
+        </div>
       </section>
       <section>
         <div class="row">
@@ -377,7 +383,7 @@
       </section>
       <section>
         <div class="row">
-          <h2>gunung sibayak</h2>
+          <h2>Gunung Sibayak</h2>
         </div>
         <div class="row">
           <p class="text-justify">Gunung Sibayak adalah kelas gunung berapi aktif yang memiliki uap panas. Selain itu, letusan yang terjadi beberapa waktu lalu cukup mengguncang bebatuan di puncak gunung. Kondisi yang cukup “tidak beraturan” pada bebatuan puncak nya ini, justru menjadi keunikan tersendiri yang menarik wisatawan yang senang menguji adrenalinnya untuk berusaha menaklukkan Gunung Sibayak hingga mencapai puncaknya. Pemandangan matahari terbit dari puncak gunung akan membuat anda terperangah.</p>
@@ -617,7 +623,10 @@
         <div class="row">
           <h2>Rumah Makan Sinar Pagi</h2>
         </div>
-        <div class="row"><img src="img/sinarpagi.jpg" class="col-md-6"><img src="img/sinarpagi2.jpg" class="col-md-6"></div>
+        <div class="row">
+          <div class="col-md-6 hidden-xs"><img src="img/sinarpagi.jpg" class="img-responsive"></div>
+          <div class="col-md-6"><img src="img/sinarpagi2.jpg" class="img-responsive"></div>
+        </div>
       </section>
       <section>
         <div class="row">
@@ -639,7 +648,10 @@
         <div class="row">
           <h2>Kuliner Pagaruyung</h2>
         </div>
-        <div class="row"><img src="img/pagaruyung.jpg" class="col-md-6"><img src="img/pagaruyung2.jpg" class="col-md-6"></div>
+        <div class="row">
+          <div class="col-md-6"><img src="img/pagaruyung.jpg" class="img-responsive"></div>
+          <div class="col-md-6 hidden-xs"><img src="img/pagaruyung2.jpg" class="img-responsive"></div>
+        </div>
       </section>
       <section>
         <div class="row">
@@ -706,36 +718,6 @@
       </section>
       <section>
         <div class="row">
-          <h2>Rumah Makan Sipirok Medan</h2>
-        </div>
-        <div class="row"><img src="img/sipirok.jpg" class="img-responsive"></div>
-      </section>
-      <section>
-        <div class="row">
-          <h2>Rumah Makan Sipirok Medan</h2>
-        </div>
-        <div class="row">
-          <p class="text-left">Rumah makan memiliki ruang yang lumayan luas dan bersih. Menu andalan yang tersaji di Rumah Makan Sipirok adalah sop iga sapi dengan kuah bening dan rasanya yang gurih. Masakan Medan yang satu ini benar-benar menggugah selera. Kalau sudah sekali makan, pasti ingin nambah.</p>
-        </div>
-      </section>
-      <section>
-        <div class="row">
-          <h2>Rumah Makan Sipirok Medan</h2>
-        </div>
-        <div class="row">
-          <p class="text-left">Selain itu, ada juga gulai ikan asap dan sup sumsum kaki sapi. Cara makan sup sumsum kaki sapi di Rumah Makan Sipirok sangat unik. Sumsum yang ada di dalam rongga tulang kaki sapi dihisap menggunakan sedotan.</p>
-        </div>
-      </section>
-      <section>
-        <div class="row">
-          <h2>Lokasi Rumah Makan</h2>
-        </div>
-        <div class="row">
-          <p class="text-left">Rumah Makan Sipirok yang berlokasi di Jln. Sunggal No. 14, Medan. Biasanya rumah makan ini mulai buka pukul 10.00 WIB-15.00 WIB.  Lokasinya tepat berada di pinggir jalan raya.</p>
-        </div>
-      </section>
-      <section>
-        <div class="row">
           <h2>Durian House</h2>
         </div>
         <div class="row"><img src="img/durian.jpg" class="img-responsive"></div>
@@ -781,6 +763,11 @@
         <p>Our Trello :<br/>https://trello.com/b/aPiUVO1k/tkppl-bespoke-project</p>
       </section>
     </article>
+    <div id="searchfield">
+      <form>
+        <input type="text" name="search" id="autocomplete" placeholder="Search..." class="biginput">
+      </form>
+    </div>
     <!-- build:js scripts/scripts.js-->
     <script src="bower_components/bespoke.js/dist/bespoke.min.js"></script>
     <script src="bower_components/bespoke-keys/dist/bespoke-keys.min.js"></script>
@@ -792,8 +779,10 @@
     <script src="bower_components/bespoke-state/dist/bespoke-state.min.js"></script>
     <script src="bower_components/bespoke-forms/dist/bespoke-forms.min.js"></script>
     <script src="bower_components/prism/prism.js"></script>
-    <script src="scripts/jquery.js"></script>
+    <script src="scripts/jquery.min.js"></script>
+    <script src="scripts/jquery.autocomplete.min.js"></script>
     <script src="bootstrap/bootstrap.min.js"></script>
     <script src="scripts/main.js"></script>
+    <script src="scripts/autocomplete.js"></script>
   </body>
 </html>
