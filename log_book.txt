@@ -30,7 +30,8 @@ Sprint 2:
 30/5 - 2/6
 Scrummaster: M.Hadi Ardiansyah (10 111 2070)
 
-Sprint 3: 
+Sprint 3:
+3/6 - 5/6
 Scrummaster: Rahmatsyah Panggabean (10 111 1520)
 
 Progress Harian (Diupdate tiap hari)
@@ -223,3 +224,8 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 1. Semalam ,memperbaiki slide merdeka walk
 2. Tambah slide untuk sushiboat
 3. Saya tidak ada kendala
+
+(Rahmatsyah Panggabean):
+1. Semalam saya menambah slide Alfresco
+2. Mengedit gambar dan artikel pada slide Alfresco
+3. Tidak ada kendala
