@@ -240,6 +240,14 @@ body {
   color: #404040;
   background: #6e6f73 url("../img/noise.png");
 }
+.bespoke-slide {
+  border-left: 1px solid #e2e2e2;
+  border-right: 1px solid #e2e2e2;
+  margin-bottom: 30px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  background: #eaeaea;
+}
 h1 {
   font-size: 72px;
   line-height: 82px;
@@ -275,6 +283,9 @@ a {
   color: #0089f3;
   text-decoration: none;
 }
+ol {
+  margin-left: 40px;
+}
 .special {
   font-family: 'Seaweed Script', cursive;
   font-size: 72px;
@@ -282,4 +293,55 @@ a {
   letter-spacing: -2px;
   margin-bottom: 16px;
   font-weight: 100;
+}
+.autocomplete-suggestions {
+  border: 1px solid #999;
+  background: #fff;
+  cursor: default;
+  overflow: auto;
+}
+.autocomplete-suggestion {
+  padding: 10px 5px;
+  font-size: 1.2em;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.autocomplete-selected {
+  background: #f0f0f0;
+}
+.autocomplete-suggestions strong {
+  font-weight: normal;
+  color: #39f;
+}
+#searchfield {
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 35px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+#searchfield form .biginput {
+  width: 600px;
+  height: 40px;
+  padding: 0 10px 0 10px;
+  background-color: #fff;
+  border: 1px solid #c8c8c8;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  color: #aeaeae;
+  font-weight: normal;
+  font-size: 1.5em;
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  -ms-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+}
+#searchfield form .biginput:focus {
+  color: #858585;
 }
