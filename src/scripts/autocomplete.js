@@ -22,8 +22,11 @@ $(function(){
     { value: 'Pagaruyung', data: '#69' },
     { value: 'Ucok Durian', data: '#72' },
     { value: 'Sate Padang Alfresco', data: '#73' },
-    { value: 'Mie Aceh Titi Bobrok', data: '#74' },
-    { value: 'Durian House', data: '#78' },
+    { value: 'Mie Aceh Titi Bobrok', data: '#75' },
+    { value: 'Restoran Pohon Pisang', data: '#78' },
+    { value: 'Mie Gomak', data: '#82' },
+    { value: 'Mie Pedas Mampus', data: '#85' },
+    { value: 'Durian House', data: '#89' },
   ];
   $('#searchfield').hide();
 

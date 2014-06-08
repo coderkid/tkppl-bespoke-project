@@ -34,6 +34,10 @@ Sprint 3:
 3/6 - 5/6
 Scrummaster: Rahmatsyah Panggabean (10 111 1520)
 
+Sprint 4:
+6/6 - 8/6
+Scrummaster: Franseda Abudiman Dalimunthe (10 111 2495)
+
 Progress Harian (Diupdate tiap hari)
 ------------------------------------
 
@@ -221,7 +225,7 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 
 6/6
 (Wahyu Raja Butar-Butar):
-1. Semalam ,memperbaiki slide merdeka walk
+1. Semalam memperbaiki slide merdeka walk
 2. Tambah slide untuk sushiboat
 3. Saya tidak ada kendala
 
@@ -231,6 +235,10 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 3. Tidak ada kendala
 
 7/6
+(Wahyu Raja Butar-Butar):
+1. Semalam membuat slide untuk sushiboat
+2. Tambah Fitur Scroll down/up + search by key 'F'
+3. Saya tidak ada kendala
 
 (Rahmatsyah Panggabean):
 1. Semalam saya mengedit gambar dan artikel pada Slide Alfresco
@@ -242,4 +250,3 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 1. Semalam saya membuat slide Mie Gomak
 2. Mengedit gambar dan mengedit artikel mie gomak
 3. Tidak ada kendala
-
