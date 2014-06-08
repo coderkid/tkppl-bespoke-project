@@ -61,8 +61,6 @@ html
       include Mie aceh titi bobrok
       
       include restopohonpisang
-
-      include sipirok
       
       include migomak
       
@@ -70,6 +68,10 @@ html
 
       include last-slide
 
+    div#searchfield
+          form
+            input(type="text", name="search", class="biginput", id="autocomplete", placeholder="Search...")
+            
     // build:js scripts/scripts.js
     script(src='bower_components/bespoke.js/dist/bespoke.min.js')
     script(src='bower_components/bespoke-keys/dist/bespoke-keys.min.js')
@@ -81,6 +83,8 @@ html
     script(src='bower_components/bespoke-state/dist/bespoke-state.min.js')
     script(src='bower_components/bespoke-forms/dist/bespoke-forms.min.js')
     script(src='bower_components/prism/prism.js')
-    script(src='scripts/jquery.js')
+    script(src='scripts/jquery.min.js')
+    script(src='scripts/jquery.autocomplete.min.js')
     script(src='bootstrap/bootstrap.min.js')
     script(src='scripts/main.js')
+    script(src='scripts/autocomplete.js')
