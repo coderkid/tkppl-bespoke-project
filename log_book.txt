@@ -195,6 +195,11 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 2. Hari ini saya mencari dan membuat slide rumah makan sinar pagi
 3. Tidak ada kendala
 
+(Franseda Abudiman Dalimunthe):
+1. Semalam saya melakukan add log book.
+2. Hari ini saya menambah slide mie aceh titi bobrok
+3. Tidak ada kendala
+
 4/6
 
 (Wahyu Raja Butar-Butar):
@@ -212,6 +217,13 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 2. Hari ini saya mencari dan membuat slide kuliner pagaruyung
 3. Tidak ada kendala
 
+(Franseda Abudiman Dalimunthe):
+1. Semalam saya menambah slide mie aceh titi bobrok.
+2. Hari ini saya menambah slide sipirok
+3. Tidak ada kendala
+
+
+
 5/6
 (Wahyu Raja Butar-Butar):
 1. Semalam resolve conflict dan merge hasil dari rahmatsyah, hadi, dan franseda
@@ -222,6 +234,12 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 1. Semalam saya mengedit gambar dari Slide Ucok Durian
 2. Menambah slide Alfresco
 3. Kendala saya, saya telat push pada tengah malam. Karena keterlambatan proses dari laptop saya
+
+(Franseda Abudiman Dalimunthe):
+1. Semalam saya menambah slide sipirok
+2. Hari ini saya melakukan add index.html
+3. Tidak ada kendala
+
 
 6/6
 (Wahyu Raja Butar-Butar):
@@ -234,6 +252,12 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 2. Mengedit gambar dan artikel pada slide Alfresco
 3. Tidak ada kendala
 
+(Franseda Abudiman Dalimunthe):
+1. Semalam saya melakukan add index.html
+2. Hari ini saya menambah slide Durian House
+3. Tidak ada kendala
+
+
 7/6
 (Wahyu Raja Butar-Butar):
 1. Semalam membuat slide untuk sushiboat
@@ -245,8 +269,18 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 2. Menmbuat slide Mie Gomak
 3. Tidak ada kendala
 
+(Franseda Abudiman Dalimunthe):
+1. Semalam saya menambah slide durian house.
+2. Hari ini saya menghapus durian.jadr
+3. Tidak ada kendala
+
 8/6
 (Rahmatsyah Panggabean):
 1. Semalam saya membuat slide Mie Gomak
 2. Mengedit gambar dan mengedit artikel mie gomak
+3. Tidak ada kendala
+
+(Franseda Abudiman Dalimunthe):
+1. Semalam saya menghapus durian.jadr.
+2. Hari ini saya mengedit slide durian.jade
 3. Tidak ada kendala
