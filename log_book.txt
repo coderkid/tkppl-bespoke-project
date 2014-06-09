@@ -240,6 +240,10 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 2. Hari ini saya melakukan add index.html
 3. Tidak ada kendala
 
+(M.Hadi Ardiansyah):
+1. Semalam saya mencari dan membuat slide kuliner pagaruyung
+2. Hari ini saya menambah slide gambar kuliner pagaruyung
+3. Tidak ada kendala
 
 6/6
 (Wahyu Raja Butar-Butar):
@@ -257,6 +261,10 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 2. Hari ini saya menambah slide Durian House
 3. Tidak ada kendala
 
+(M.Hadi Ardiansyah):
+1. Semalam saya menambah slide gambar kuliner pagaruyung
+2. Hari ini saya mencari informasi dan membuat slide restoran pohon pisang
+3. Tidak ada kendala
 
 7/6
 (Wahyu Raja Butar-Butar):
@@ -272,6 +280,10 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 (Franseda Abudiman Dalimunthe):
 1. Semalam saya menambah slide durian house.
 2. Hari ini saya menghapus durian.jadr
+
+(M.Hadi Ardiansyah):
+1. Semalam saya mencari informasi dan membuat slide restoran pohon pisang
+2. Hari ini saya menambah slide foto restoran pohon pisang
 3. Tidak ada kendala
 
 8/6
@@ -284,3 +296,11 @@ Semua Anggota Latihan Fork, Clone, Pull Request
 1. Semalam saya menghapus durian.jadr.
 2. Hari ini saya mengedit slide durian.jade
 3. Tidak ada kendala
+
+(M.Hadi Ardiansyah):
+1. Semalam saya menambah slide foto restoran pohon pisang
+2. Hari ini saya mengedit slide restoran pohon pisang
+3. Tidak ada kendala
+
+(Wahyu Raja Butar-Butar):
+1. Semalam tambah Fitur Scroll down/up + search by key 'F'
